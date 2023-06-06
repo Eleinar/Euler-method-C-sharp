@@ -88,7 +88,7 @@ namespace Elier_wf
         {
             MessageBox.Show("Выполнил Моисеев Даниил ИС(ПРО)-21");
         }
-
+        
         private void DrawGaphic(double[] X, double[] Y)
         {
             GraphPane pane = zedGraphControl1.GraphPane;

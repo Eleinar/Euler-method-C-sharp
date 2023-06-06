@@ -39,10 +39,10 @@
             this.label3 = new System.Windows.Forms.Label();
             this.zedGraphControl1 = new ZedGraph.ZedGraphControl();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
-            this.label4 = new System.Windows.Forms.Label();
-            this.y0_textBox = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.h_textBox = new System.Windows.Forms.TextBox();
+            this.label4 = new System.Windows.Forms.Label();
+            this.y0_textBox = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.groupBox1.SuspendLayout();
@@ -169,22 +169,6 @@
             this.groupBox1.TabIndex = 10;
             this.groupBox1.TabStop = false;
             // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(3, 198);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(18, 13);
-            this.label4.TabIndex = 9;
-            this.label4.Text = "y0";
-            // 
-            // y0_textBox
-            // 
-            this.y0_textBox.Location = new System.Drawing.Point(130, 195);
-            this.y0_textBox.Name = "y0_textBox";
-            this.y0_textBox.Size = new System.Drawing.Size(45, 20);
-            this.y0_textBox.TabIndex = 8;
-            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -200,6 +184,22 @@
             this.h_textBox.Name = "h_textBox";
             this.h_textBox.Size = new System.Drawing.Size(45, 20);
             this.h_textBox.TabIndex = 10;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(3, 198);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(18, 13);
+            this.label4.TabIndex = 9;
+            this.label4.Text = "y0";
+            // 
+            // y0_textBox
+            // 
+            this.y0_textBox.Location = new System.Drawing.Point(130, 195);
+            this.y0_textBox.Name = "y0_textBox";
+            this.y0_textBox.Size = new System.Drawing.Size(45, 20);
+            this.y0_textBox.TabIndex = 8;
             // 
             // Form1
             // 
